@@ -1,4 +1,6 @@
 ## Hi there 👋
 I am a user that just joined this site
 ## My GitHub Statistics
-![DisRandomUser GitHub stats](https://github-readme-stats.vercel.app/api?username=DisRandomUser&show_icons=true&theme=radical)
+![0820AdamS GitHub stats](https://github-readme-stats.vercel.app/api?username=0820AdamS&show_icons=true&theme=radical)
+## Languages I used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0820AdamS&layout=compact&theme=radical)
